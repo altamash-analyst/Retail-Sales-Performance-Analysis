@@ -929,11 +929,9 @@ Focused on transforming business data into actionable insights through analytics
 
 [![GitHub](https://img.shields.io/badge/GitHub-altamash--analyst-black?logo=github)](https://github.com/altamash-analyst)
 
-**GitHub:** [github.com/altamash-analyst](https://github.com/altamash-analyst)
-
-**Email:** altamash9876@gmail.com
-
-**LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** [Altamash Nizamuddin](https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
+- **GitHub:** [altamash-analyst](https://github.com/altamash-analyst)
+- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
 
 **Location:** Mumbai, India
 
